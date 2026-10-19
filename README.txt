@@ -288,7 +288,7 @@ If you use these data or code, please cite:
 
   Daboussi A. et al. (2026). Data and code for: Broadband Antireflection in
   Ag-Assisted MACE Porous GaAs: Etching-Time Dependence and Effective-Medium
-  Optical Modeling. Zenodo. https://doi.org/10.5281/zenodo.23476846
+  Optical Modeling. Zenodo. https://doi.org/10.5281/zenodo.23477775
 
 --------------------------------------------------------------------------------
 LICENSE
